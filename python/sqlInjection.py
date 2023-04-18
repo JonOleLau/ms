@@ -11,3 +11,4 @@ def unsafe_function(user_input):
 
 user_input = input("Enter a username: ")
 print(unsafe_function(user_input))
+
