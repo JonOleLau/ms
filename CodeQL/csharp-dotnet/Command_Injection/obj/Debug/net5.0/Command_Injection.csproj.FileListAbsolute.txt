@@ -1,0 +1,6 @@
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.csproj.AssemblyReference.cache
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.AssemblyInfoInputs.cache
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.AssemblyInfo.cs
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.csproj.CoreCompileInputs.cache
+C:\Koding\csharp-dotnet\Command_Injection\obj\Debug\net5.0\Command_Injection.MvcApplicationPartsAssemblyInfo.cache
