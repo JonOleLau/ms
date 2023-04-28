@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Direct_obj_ref.props" />
+</Project>

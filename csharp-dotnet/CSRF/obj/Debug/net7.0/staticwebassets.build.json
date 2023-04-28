@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NxKr/J8bKH7WWxM9+5EkKJutSzbC6+mcwXSRHTFAP9U=",
+  "Source": "CSRF",
+  "BasePath": "_content/CSRF",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
