@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "9f4AQwxkSkIfgZXwQJUDSpvGd4wpk9IJ9Qvuq7eFqHaAowKGzu1PVhMPG/cE0m/YyeSvqM3F4o+XJNrDSPvmkw==",
-  "success": true,
-  "projectFilePath": "C:\\Koding\\CodeQL\\csharp-dotnet\\Command_Injection\\Command_Injection.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
