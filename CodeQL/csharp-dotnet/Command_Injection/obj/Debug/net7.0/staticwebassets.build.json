@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x7QhtYdWTVFExJGFQ5rym0ht2JYzDn3hh/Um0M0nedc=",
+  "Source": "Command_Injection",
+  "BasePath": "_content/Command_Injection",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

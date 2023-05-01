@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Command_Injection/1.0.0": {
+        "runtime": {
+          "Command_Injection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Command_Injection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
